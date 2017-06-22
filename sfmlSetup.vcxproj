@@ -161,6 +161,7 @@
     <ClCompile Include="Example10.cpp" />
     <ClCompile Include="Example11.cpp" />
     <ClCompile Include="Example12.cpp" />
+    <ClCompile Include="Example13.cpp" />
     <ClCompile Include="ZOOM IN BEFORE RECORDING BRO!.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
