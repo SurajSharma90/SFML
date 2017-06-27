@@ -1,3 +1,6 @@
-﻿  Example14.cpp
+﻿  Example15.cpp
+h:\sfml_examples\sfmlsetup\example15.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\sfml_examples\sfmlsetup\example15.cpp(85): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+h:\sfml_examples\sfmlsetup\example15.cpp(119): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
   sfmlSetup.vcxproj -> H:\SFML_Examples\Debug\sfmlExamples.exe
   sfmlSetup.vcxproj -> H:\SFML_Examples\Debug\sfmlExamples.pdb (Full PDB)
