@@ -1,4 +1,3 @@
-﻿  Example13.cpp
-h:\sfml_examples\sfmlsetup\example13.cpp(20): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+﻿  Example14.cpp
   sfmlSetup.vcxproj -> H:\SFML_Examples\Debug\sfmlExamples.exe
   sfmlSetup.vcxproj -> H:\SFML_Examples\Debug\sfmlExamples.pdb (Full PDB)
